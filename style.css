@@ -56,4 +56,5 @@ section{
     background-color: #42525d;
     height: 800px;
     width: 600px;
+    border-style: double;
 }
