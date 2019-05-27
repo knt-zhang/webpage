@@ -1,4 +1,4 @@
-/* site.html */
+/* home.html */
 html{
     background-color: #333333;
     color: white;
@@ -7,6 +7,12 @@ html{
 body p{
     text-align: center;
     font-size: 30px;
+}
+
+body header{
+    float: left;
+    margin: 0 35%;
+    width: 500px;
 }
 
 body header ul {
