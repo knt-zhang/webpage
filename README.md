@@ -1,2 +1,2 @@
 Download files.
-Open using your browser.
+Open using any html file using your browser.
